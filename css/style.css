@@ -1,0 +1,22 @@
+p {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+h2 {color: rgb(255, 255, 255);
+}
+    table, th, td {
+    border: 3px solid rgb(238, 234, 234);
+  }
+  table {
+    border-collapse: collapse;
+  }
+  a {
+    font-size: 25px;
+  }
+  img:hover {
+    height: 1000px;
+    width: 1000px;
+  }
+  <!-- hover not working -->
+  
