@@ -1,0 +1,39 @@
+h2 {
+  color: rgb(255, 255, 255);
+}
+
+#color {
+  color: white;
+}
+  
+  body {
+    font-family: Monaco;
+    background-color: purple;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  
+  .card {
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    text-align: center;
+    background-color: #f1f1f1;
+    
+  }
+
+  #center {
+text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
