@@ -9,6 +9,7 @@ h2 {
   body {
     font-family: Monaco;
     background-color: purple;
+    background-image: url(/images/cityLights.jpeg);background-size: cover;
   }
   
   @media screen and (max-width: 600px) {
@@ -36,4 +37,7 @@ text-align: center;
   justify-content: center;
   gap: 20px;
   margin-bottom: 20px;
+}
+a {
+  color: rgb(255, 255, 255);
 }

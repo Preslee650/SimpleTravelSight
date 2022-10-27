@@ -1,7 +1,7 @@
 body {
     color: #fff;
     background: rgb(155, 0, 134);
-    font-family: 'Roboto', sans-serif;
+    font-family: monaco;
   }
     .form-control{
     height: 40px;
@@ -89,4 +89,7 @@ body {
     background-image: url("/images/peacefulbench.webp");
     background-size:cover;
     font-family: Monaco;
+  }
+  a {
+    color: white;
   }
