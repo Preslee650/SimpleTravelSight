@@ -92,4 +92,6 @@ body {
   }
   a {
     color: white;
+    font-size: 20px;
+    font-family: Monaco;
   }

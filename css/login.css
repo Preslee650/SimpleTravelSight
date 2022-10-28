@@ -28,3 +28,7 @@ body {
     background-size:cover;
     
   }
+  a {
+    font-size: 20px;
+    font-family: Monaco;
+  }

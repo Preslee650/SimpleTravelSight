@@ -6,10 +6,12 @@ p {
 h1 {
     color: rgb(155, 0, 134);
     font-size: 50px;
+    font-family: Monaco;
 }
 h2 {
     color: rgb(255, 255, 255);
     font-size: 30px;
+    font-family: Monaco;
 }
 table, th, td {
     border: 5px solid rgb(155, 0, 134);
@@ -17,6 +19,7 @@ table, th, td {
 table {
     border-collapse: collapse;
     font-size: 25px;
+    font-family: Monaco;
   }
 tr  {
     color: rgb(255, 255, 255);
@@ -24,6 +27,7 @@ tr  {
 a {
     color: rgb(255, 255, 255);
     font-size: 20px;
+    font-family: Monaco;
 }
 body {
   background-color: purple;
@@ -36,6 +40,7 @@ ul {
   display:inline-block;
   padding-left: 0%;
   font-size: 30px;
+  font-family: Monaco;
  }
  .bottom {
   padding-top: 200px;
